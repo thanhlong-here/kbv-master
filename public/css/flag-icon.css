@@ -1,0 +1,2042 @@
+.flag-icon {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1.33333333em;
+  line-height: 1em;
+}
+
+.flag-icon:before {
+  content: '\A0';
+}
+
+.flag-icon.flag-icon-squared {
+  width: 1em;
+}
+
+.flag-icon-ad {
+  background-image: url(/fonts/ad.svg?78a5ef8e8fb9913fced70cbe686e6cb6);
+}
+
+.flag-icon-ad.flag-icon-squared {
+  background-image: url(/fonts/ad.svg?3b75231e1890451ebfdbd09e16ca188d);
+}
+
+.flag-icon-ae {
+  background-image: url(/fonts/ae.svg?1d281ed971cff2cf1c4f9af9ada3124c);
+}
+
+.flag-icon-ae.flag-icon-squared {
+  background-image: url(/fonts/ae.svg?201a7ecb7ec5d101dc4e92e8350f0a6a);
+}
+
+.flag-icon-af {
+  background-image: url(/fonts/af.svg?339e13117be1ba0b85b4aa68dbbf255b);
+}
+
+.flag-icon-af.flag-icon-squared {
+  background-image: url(/fonts/af.svg?0dfb903b8954bc9c6bae3b7c5c14ea7d);
+}
+
+.flag-icon-ag {
+  background-image: url(/fonts/ag.svg?43f5ec5f4daa88ac5c35ba9d10d1537b);
+}
+
+.flag-icon-ag.flag-icon-squared {
+  background-image: url(/fonts/ag.svg?dd00102de657700f816b8ad7d4199aba);
+}
+
+.flag-icon-ai {
+  background-image: url(/fonts/ai.svg?b3fbdf3bb9fe35777c8057632ef8c4d6);
+}
+
+.flag-icon-ai.flag-icon-squared {
+  background-image: url(/fonts/ai.svg?81e46c1dc709f0f84c46ddc7fbee8f8e);
+}
+
+.flag-icon-al {
+  background-image: url(/fonts/al.svg?a07d2864ae4158649c50d830247a6b6a);
+}
+
+.flag-icon-al.flag-icon-squared {
+  background-image: url(/fonts/al.svg?ec95fee3d8804daae3c04ac69e67c5da);
+}
+
+.flag-icon-am {
+  background-image: url(/fonts/am.svg?1f8cb3f43919f911bcaf78ab71e8a47c);
+}
+
+.flag-icon-am.flag-icon-squared {
+  background-image: url(/fonts/am.svg?675900ed80f847275ae3ca8c8d03a1eb);
+}
+
+.flag-icon-ao {
+  background-image: url(/fonts/ao.svg?ede40421a2e1e659cb0b23ad081bbe94);
+}
+
+.flag-icon-ao.flag-icon-squared {
+  background-image: url(/fonts/ao.svg?1c29fb6f6e891623566fdbfeff29cd0c);
+}
+
+.flag-icon-aq {
+  background-image: url(/fonts/aq.svg?3261c2b0f84405c076c6ef996b7e4c5c);
+}
+
+.flag-icon-aq.flag-icon-squared {
+  background-image: url(/fonts/aq.svg?df27fcfdbe1091f680075a74babb1ad5);
+}
+
+.flag-icon-ar {
+  background-image: url(/fonts/ar.svg?fab5d7bcdd37df63199815d2d67a4d46);
+}
+
+.flag-icon-ar.flag-icon-squared {
+  background-image: url(/fonts/ar.svg?9af8753ccd8f0e71c091e43b1c306f9d);
+}
+
+.flag-icon-as {
+  background-image: url(/fonts/as.svg?480d167afc7668434f83ecbc506f66ed);
+}
+
+.flag-icon-as.flag-icon-squared {
+  background-image: url(/fonts/as.svg?d6923bae5280bf7a154a321dcb3577ad);
+}
+
+.flag-icon-at {
+  background-image: url(/fonts/at.svg?0bb707d45085ea3cbed3c30ddd89c942);
+}
+
+.flag-icon-at.flag-icon-squared {
+  background-image: url(/fonts/at.svg?4d92000bcbaaf68912226a49450fe64d);
+}
+
+.flag-icon-au {
+  background-image: url(/fonts/au.svg?95735e2022274f3c157a46d2b51a8dc3);
+}
+
+.flag-icon-au.flag-icon-squared {
+  background-image: url(/fonts/au.svg?fd8563ef5085523706a40efbe656d4a3);
+}
+
+.flag-icon-aw {
+  background-image: url(/fonts/aw.svg?7f503ec44d704b31cbe82c374eeede8e);
+}
+
+.flag-icon-aw.flag-icon-squared {
+  background-image: url(/fonts/aw.svg?a8209356112ba74a0eea1806738fe28f);
+}
+
+.flag-icon-ax {
+  background-image: url(/fonts/ax.svg?b7cb7e2a655b303241f5a6484d90d923);
+}
+
+.flag-icon-ax.flag-icon-squared {
+  background-image: url(/fonts/ax.svg?0393f575f7800c778e2e3a1ea1d2b39d);
+}
+
+.flag-icon-az {
+  background-image: url(/fonts/az.svg?4436e304d3c32ac80c24913288a3980b);
+}
+
+.flag-icon-az.flag-icon-squared {
+  background-image: url(/fonts/az.svg?180d55a6738644db6162d941bf1e7fba);
+}
+
+.flag-icon-ba {
+  background-image: url(/fonts/ba.svg?b2a453d5eff3dad3d58dda38a0a0e80b);
+}
+
+.flag-icon-ba.flag-icon-squared {
+  background-image: url(/fonts/ba.svg?5f6a730942fb98060601396cd9220b0b);
+}
+
+.flag-icon-bb {
+  background-image: url(/fonts/bb.svg?8d8c90d7c5b4476b6f9adc3f2204934f);
+}
+
+.flag-icon-bb.flag-icon-squared {
+  background-image: url(/fonts/bb.svg?fce8ac3e854ddf319fb26a3cb15e5daa);
+}
+
+.flag-icon-bd {
+  background-image: url(/fonts/bd.svg?7d936d627408e7d76fbfc72d2ed6b102);
+}
+
+.flag-icon-bd.flag-icon-squared {
+  background-image: url(/fonts/bd.svg?81d919dd9dae5b8ab51e696358c97b15);
+}
+
+.flag-icon-be {
+  background-image: url(/fonts/be.svg?851696cbe807a178fd8a2ca3d742d8a9);
+}
+
+.flag-icon-be.flag-icon-squared {
+  background-image: url(/fonts/be.svg?f9d78d777f589b4a884837e2e19bbd00);
+}
+
+.flag-icon-bf {
+  background-image: url(/fonts/bf.svg?8471d39b50e2ff319b49f417bebc2756);
+}
+
+.flag-icon-bf.flag-icon-squared {
+  background-image: url(/fonts/bf.svg?5e9823788c5b1c25d79b84929776a2f9);
+}
+
+.flag-icon-bg {
+  background-image: url(/fonts/bg.svg?5d2babc9fd8cf9676bddf871f1232856);
+}
+
+.flag-icon-bg.flag-icon-squared {
+  background-image: url(/fonts/bg.svg?1e5de095a72f5fa4f6155d933b7cd41d);
+}
+
+.flag-icon-bh {
+  background-image: url(/fonts/bh.svg?64fbbb84a291b85f30591a8cc9a02719);
+}
+
+.flag-icon-bh.flag-icon-squared {
+  background-image: url(/fonts/bh.svg?9cd46cfe83826d970377a49b50b6662b);
+}
+
+.flag-icon-bi {
+  background-image: url(/fonts/bi.svg?ddbe8e3fcc658d45f80a3ef94684a21e);
+}
+
+.flag-icon-bi.flag-icon-squared {
+  background-image: url(/fonts/bi.svg?bdca9026c05f9df1bb7b62877fd0bd7c);
+}
+
+.flag-icon-bj {
+  background-image: url(/fonts/bj.svg?73ca17044cd6c58dd9d6066135a1a619);
+}
+
+.flag-icon-bj.flag-icon-squared {
+  background-image: url(/fonts/bj.svg?00e04d920f0d106e70286e688aa937cf);
+}
+
+.flag-icon-bl {
+  background-image: url(/fonts/bl.svg?994df095535dbf7320f57e18b11f432c);
+}
+
+.flag-icon-bl.flag-icon-squared {
+  background-image: url(/fonts/bl.svg?c9e464d9efd3ba80716a2b6b1be8330a);
+}
+
+.flag-icon-bm {
+  background-image: url(/fonts/bm.svg?dbd36ba3ab7d440612dfe0ba660140d0);
+}
+
+.flag-icon-bm.flag-icon-squared {
+  background-image: url(/fonts/bm.svg?9c3ed53636984354199514d9a4bd84b8);
+}
+
+.flag-icon-bn {
+  background-image: url(/fonts/bn.svg?427230e8da6c4e32a7f71c7fa8bb98fd);
+}
+
+.flag-icon-bn.flag-icon-squared {
+  background-image: url(/fonts/bn.svg?2c4223922139dcc8dc6c41f05ea49ee3);
+}
+
+.flag-icon-bo {
+  background-image: url(/fonts/bo.svg?68b087c07ed5f46254e740c3ee64bc0b);
+}
+
+.flag-icon-bo.flag-icon-squared {
+  background-image: url(/fonts/bo.svg?b5dd20097df8f5469ea0521aab7ea8ea);
+}
+
+.flag-icon-bq {
+  background-image: url(/fonts/bq.svg?60ba4677c5884fa068f8aab3f4169cea);
+}
+
+.flag-icon-bq.flag-icon-squared {
+  background-image: url(/fonts/bq.svg?13e7d9ad7eb788768dcdf541e2d85ddc);
+}
+
+.flag-icon-br {
+  background-image: url(/fonts/br.svg?af9012dcb652152923869cc9c459b83f);
+}
+
+.flag-icon-br.flag-icon-squared {
+  background-image: url(/fonts/br.svg?d01c375d42313e4075d8a3d1612d5a8f);
+}
+
+.flag-icon-bs {
+  background-image: url(/fonts/bs.svg?30bbf0ec26eeb02fbfa28d51c838e706);
+}
+
+.flag-icon-bs.flag-icon-squared {
+  background-image: url(/fonts/bs.svg?54ca6c7aa68e1ecfcdffef8e210bf687);
+}
+
+.flag-icon-bt {
+  background-image: url(/fonts/bt.svg?c59d6cd494433fe81f5d23863b661aa3);
+}
+
+.flag-icon-bt.flag-icon-squared {
+  background-image: url(/fonts/bt.svg?17c8f1b2b0692eb296af66b51f6fbf69);
+}
+
+.flag-icon-bv {
+  background-image: url(/fonts/bv.svg?19acce5fe4d41cc8d9d2d5ad210b19e6);
+}
+
+.flag-icon-bv.flag-icon-squared {
+  background-image: url(/fonts/bv.svg?f7bdc1edcef008357c0937b08d369a1a);
+}
+
+.flag-icon-bw {
+  background-image: url(/fonts/bw.svg?b708b280fd42f200acaa1aeda615d3aa);
+}
+
+.flag-icon-bw.flag-icon-squared {
+  background-image: url(/fonts/bw.svg?222424c28c8317e8fbe0b4b1d12d22c7);
+}
+
+.flag-icon-by {
+  background-image: url(/fonts/by.svg?e3816126d1d16d2f5239ea9113b5a0cb);
+}
+
+.flag-icon-by.flag-icon-squared {
+  background-image: url(/fonts/by.svg?851744c8d55f3a47daa5dce43c69fc93);
+}
+
+.flag-icon-bz {
+  background-image: url(/fonts/bz.svg?f6c04e11e4bec5ff8815ee045a2e644a);
+}
+
+.flag-icon-bz.flag-icon-squared {
+  background-image: url(/fonts/bz.svg?41fe018eae278a405f0aa83039436c22);
+}
+
+.flag-icon-ca {
+  background-image: url(/fonts/ca.svg?2dd02bb05ef9354dbca0ccc12f623ef1);
+}
+
+.flag-icon-ca.flag-icon-squared {
+  background-image: url(/fonts/ca.svg?7e994bdcb7a3367f98e284d3f28aae53);
+}
+
+.flag-icon-cc {
+  background-image: url(/fonts/cc.svg?4362c7e71a72bb7ba7203523fb096a87);
+}
+
+.flag-icon-cc.flag-icon-squared {
+  background-image: url(/fonts/cc.svg?572471bd816c580d8d74e7abfa57499e);
+}
+
+.flag-icon-cd {
+  background-image: url(/fonts/cd.svg?25868a969f3eaa1b0fe2ed7d854a3f44);
+}
+
+.flag-icon-cd.flag-icon-squared {
+  background-image: url(/fonts/cd.svg?383deb4011a564f1a70f7725cf0a8ed6);
+}
+
+.flag-icon-cf {
+  background-image: url(/fonts/cf.svg?9029cb92274f2bdd7b8c902c20caa934);
+}
+
+.flag-icon-cf.flag-icon-squared {
+  background-image: url(/fonts/cf.svg?aaa41b8c9f488b69b7a05ed448a89831);
+}
+
+.flag-icon-cg {
+  background-image: url(/fonts/cg.svg?edbfbc876503c4c04833e188a7171c1c);
+}
+
+.flag-icon-cg.flag-icon-squared {
+  background-image: url(/fonts/cg.svg?e90d0f7391fabcbe56bd7fd132e0c7c3);
+}
+
+.flag-icon-ch {
+  background-image: url(/fonts/ch.svg?f55af20b8350660cb6acde75085fe67f);
+}
+
+.flag-icon-ch.flag-icon-squared {
+  background-image: url(/fonts/ch.svg?75db5a41a8901010d10bd727a18d1377);
+}
+
+.flag-icon-ci {
+  background-image: url(/fonts/ci.svg?a58e55f4aba096068d44379caaae4de6);
+}
+
+.flag-icon-ci.flag-icon-squared {
+  background-image: url(/fonts/ci.svg?a8bb4d9d5762d2def32138bec13424ac);
+}
+
+.flag-icon-ck {
+  background-image: url(/fonts/ck.svg?7ab1552eaaca620c2ba1336e4dd4df33);
+}
+
+.flag-icon-ck.flag-icon-squared {
+  background-image: url(/fonts/ck.svg?b3e88b163308e30d93a41de4687e43af);
+}
+
+.flag-icon-cl {
+  background-image: url(/fonts/cl.svg?0cc7706bcffb2cc014222be3ca209b4f);
+}
+
+.flag-icon-cl.flag-icon-squared {
+  background-image: url(/fonts/cl.svg?9768e54171fecd7983f397baa0ae3983);
+}
+
+.flag-icon-cm {
+  background-image: url(/fonts/cm.svg?ba51e650d05dc0b064dd4d7847e07f61);
+}
+
+.flag-icon-cm.flag-icon-squared {
+  background-image: url(/fonts/cm.svg?bee8c924f3009e40aed2bb3e1354ed59);
+}
+
+.flag-icon-cn {
+  background-image: url(/fonts/cn.svg?f99eb7ba5683427d02697aa103c830b1);
+}
+
+.flag-icon-cn.flag-icon-squared {
+  background-image: url(/fonts/cn.svg?29d9cf35217b2035fbe06b346b4c9648);
+}
+
+.flag-icon-co {
+  background-image: url(/fonts/co.svg?ed07e7f38e7506b7c84e450fe6336d9a);
+}
+
+.flag-icon-co.flag-icon-squared {
+  background-image: url(/fonts/co.svg?a742e2c15b40bc315ceb1de05ee6639c);
+}
+
+.flag-icon-cr {
+  background-image: url(/fonts/cr.svg?1301db57288447b6667a9c7aa327e107);
+}
+
+.flag-icon-cr.flag-icon-squared {
+  background-image: url(/fonts/cr.svg?6991f72da2f9a055dbc56d0479d4b3c2);
+}
+
+.flag-icon-cu {
+  background-image: url(/fonts/cu.svg?cc4e731c7da282a9c73f7096181f48bc);
+}
+
+.flag-icon-cu.flag-icon-squared {
+  background-image: url(/fonts/cu.svg?e0b76efbb437b7b983ef75e79866ec3b);
+}
+
+.flag-icon-cv {
+  background-image: url(/fonts/cv.svg?85c9d58795b36699d19c563ba54df369);
+}
+
+.flag-icon-cv.flag-icon-squared {
+  background-image: url(/fonts/cv.svg?b4f5c1e96acbd6cdb9b32b825547642e);
+}
+
+.flag-icon-cw {
+  background-image: url(/fonts/cw.svg?bc7dcd425eac90baa4764cf6e945074c);
+}
+
+.flag-icon-cw.flag-icon-squared {
+  background-image: url(/fonts/cw.svg?04e8f79843fd4baa09216f3b1bc4c1ae);
+}
+
+.flag-icon-cx {
+  background-image: url(/fonts/cx.svg?58e3aae7aa9703b0db3f5001de9c40d3);
+}
+
+.flag-icon-cx.flag-icon-squared {
+  background-image: url(/fonts/cx.svg?9002f4a7934076420bdde990d0621d09);
+}
+
+.flag-icon-cy {
+  background-image: url(/fonts/cy.svg?b5afa9ddf83cb107a9dab2290ea994a6);
+}
+
+.flag-icon-cy.flag-icon-squared {
+  background-image: url(/fonts/cy.svg?a36cd09b89519c0e5c0843c73c5dce93);
+}
+
+.flag-icon-cz {
+  background-image: url(/fonts/cz.svg?55281a2f0fe0f6920fa83debdbc23365);
+}
+
+.flag-icon-cz.flag-icon-squared {
+  background-image: url(/fonts/cz.svg?72f569ba87a7dca4e1f842a7858f1255);
+}
+
+.flag-icon-de {
+  background-image: url(/fonts/de.svg?d81d0ebbd974b1c77ad6481da4601618);
+}
+
+.flag-icon-de.flag-icon-squared {
+  background-image: url(/fonts/de.svg?2973308614aa390d43af8ed38c1e7181);
+}
+
+.flag-icon-dj {
+  background-image: url(/fonts/dj.svg?0b3d1b91acfb60404200cbdea6d45db7);
+}
+
+.flag-icon-dj.flag-icon-squared {
+  background-image: url(/fonts/dj.svg?0a5d2521afe600cc72b8ca0610ebd102);
+}
+
+.flag-icon-dk {
+  background-image: url(/fonts/dk.svg?d6e726a8f9151fa112449cc1ece53bef);
+}
+
+.flag-icon-dk.flag-icon-squared {
+  background-image: url(/fonts/dk.svg?f122bb63137f6d5c913134053649d028);
+}
+
+.flag-icon-dm {
+  background-image: url(/fonts/dm.svg?5c6d3f5b4699e93e59b601945ec4f6e9);
+}
+
+.flag-icon-dm.flag-icon-squared {
+  background-image: url(/fonts/dm.svg?1e04d3b8e6e148ff23d44fd60d386cad);
+}
+
+.flag-icon-do {
+  background-image: url(/fonts/do.svg?c74cbcf4103029fd514d74bb41e81c62);
+}
+
+.flag-icon-do.flag-icon-squared {
+  background-image: url(/fonts/do.svg?fd033e8ad2c48d2c3895dd467cf52eb8);
+}
+
+.flag-icon-dz {
+  background-image: url(/fonts/dz.svg?44d357120268c248da36f613c363d40f);
+}
+
+.flag-icon-dz.flag-icon-squared {
+  background-image: url(/fonts/dz.svg?1c5b4330f38fcd73efb0ec23aedc3966);
+}
+
+.flag-icon-ec {
+  background-image: url(/fonts/ec.svg?2114fe6eadc357108cfdd3f4a6ba616a);
+}
+
+.flag-icon-ec.flag-icon-squared {
+  background-image: url(/fonts/ec.svg?4848ee61ddb7be07b2e15db861049bed);
+}
+
+.flag-icon-ee {
+  background-image: url(/fonts/ee.svg?830a3880e83f453fc4494701d83ca45a);
+}
+
+.flag-icon-ee.flag-icon-squared {
+  background-image: url(/fonts/ee.svg?900b0053b14921a6c8667dbabc302f3b);
+}
+
+.flag-icon-eg {
+  background-image: url(/fonts/eg.svg?8e3bb120a2c76f52080426f3b26967e5);
+}
+
+.flag-icon-eg.flag-icon-squared {
+  background-image: url(/fonts/eg.svg?2e7de6a77387ff51ff6a953cda545870);
+}
+
+.flag-icon-eh {
+  background-image: url(/fonts/eh.svg?cde7743d43963bcdbdb1fc65e8dc7ba5);
+}
+
+.flag-icon-eh.flag-icon-squared {
+  background-image: url(/fonts/eh.svg?c39057c3d6c2acd8e77544ae42fb5552);
+}
+
+.flag-icon-er {
+  background-image: url(/fonts/er.svg?db81cce270950a60f34f0405dfc3caa0);
+}
+
+.flag-icon-er.flag-icon-squared {
+  background-image: url(/fonts/er.svg?3db012ff5bcd64a3efb3259cbe433122);
+}
+
+.flag-icon-es {
+  background-image: url(/fonts/es.svg?b8f6038dac2687f7d2a38146c51cc502);
+}
+
+.flag-icon-es.flag-icon-squared {
+  background-image: url(/fonts/es.svg?c3b1984fe87e7ae377ec5f964ab4371b);
+}
+
+.flag-icon-et {
+  background-image: url(/fonts/et.svg?e6b6f9d76926e1d5a5e8d9b27264773c);
+}
+
+.flag-icon-et.flag-icon-squared {
+  background-image: url(/fonts/et.svg?41888111bc2d7af8fb7aceae6905163b);
+}
+
+.flag-icon-fi {
+  background-image: url(/fonts/fi.svg?3733753bbd18fcd8c82e7671449dec7b);
+}
+
+.flag-icon-fi.flag-icon-squared {
+  background-image: url(/fonts/fi.svg?41fd00fba0356314e125dbaeb9563054);
+}
+
+.flag-icon-fj {
+  background-image: url(/fonts/fj.svg?e9e116090bc2fbdbbab57fbed64db766);
+}
+
+.flag-icon-fj.flag-icon-squared {
+  background-image: url(/fonts/fj.svg?57aaef5c5e7b9e2489d891ed01726974);
+}
+
+.flag-icon-fk {
+  background-image: url(/fonts/fk.svg?f202e72c782f6cefea02319fbf617f07);
+}
+
+.flag-icon-fk.flag-icon-squared {
+  background-image: url(/fonts/fk.svg?6f0123db58790a17cb04b2e5ed5322c8);
+}
+
+.flag-icon-fm {
+  background-image: url(/fonts/fm.svg?dc5fbf1dd5f40da5ea36579d36334113);
+}
+
+.flag-icon-fm.flag-icon-squared {
+  background-image: url(/fonts/fm.svg?b933332a281ef9c3f3e9cbaf3bc43aa4);
+}
+
+.flag-icon-fo {
+  background-image: url(/fonts/fo.svg?375ebd5e6d867a1832534616ba9c86ba);
+}
+
+.flag-icon-fo.flag-icon-squared {
+  background-image: url(/fonts/fo.svg?c5b79cc205bd974fe35337749e5a8278);
+}
+
+.flag-icon-fr {
+  background-image: url(/fonts/fr.svg?2f09e1e470c97b4a03a24c0c0dbb67fa);
+}
+
+.flag-icon-fr.flag-icon-squared {
+  background-image: url(/fonts/fr.svg?c9e464d9efd3ba80716a2b6b1be8330a);
+}
+
+.flag-icon-ga {
+  background-image: url(/fonts/ga.svg?4e5e8a64d445ebedd3d34eee047b4d63);
+}
+
+.flag-icon-ga.flag-icon-squared {
+  background-image: url(/fonts/ga.svg?77886bd4d45974e2625e1fe592e314e0);
+}
+
+.flag-icon-gb {
+  background-image: url(/fonts/gb.svg?5df060a0b9178d03b0932d40a9de12ff);
+}
+
+.flag-icon-gb.flag-icon-squared {
+  background-image: url(/fonts/gb.svg?f22b0ee41f0a3116aa96d1ad86822d8b);
+}
+
+.flag-icon-gd {
+  background-image: url(/fonts/gd.svg?8f560e9cd202b592a68b8bdce521853e);
+}
+
+.flag-icon-gd.flag-icon-squared {
+  background-image: url(/fonts/gd.svg?6e21ec7e5db085d893708612f0fc409d);
+}
+
+.flag-icon-ge {
+  background-image: url(/fonts/ge.svg?782bbcba01113888253d41498b45d849);
+}
+
+.flag-icon-ge.flag-icon-squared {
+  background-image: url(/fonts/ge.svg?add0d07d0a9139f96f5745c605f28c99);
+}
+
+.flag-icon-gf {
+  background-image: url(/fonts/gf.svg?cb06b6998271595b4c7def886625d25a);
+}
+
+.flag-icon-gf.flag-icon-squared {
+  background-image: url(/fonts/gf.svg?2fdc044faac7c3842155aeed8b2e9fef);
+}
+
+.flag-icon-gg {
+  background-image: url(/fonts/gg.svg?27dcb06371206b1d0f83f5bea52d95c5);
+}
+
+.flag-icon-gg.flag-icon-squared {
+  background-image: url(/fonts/gg.svg?7ee2d7623226324f452fde0ea5f503d4);
+}
+
+.flag-icon-gh {
+  background-image: url(/fonts/gh.svg?cc4d28515198879298e92fc3ebe14b8b);
+}
+
+.flag-icon-gh.flag-icon-squared {
+  background-image: url(/fonts/gh.svg?3895c0990be774f2f74599d338f64d53);
+}
+
+.flag-icon-gi {
+  background-image: url(/fonts/gi.svg?db3602c0bbd16f0457321e3083ac9f67);
+}
+
+.flag-icon-gi.flag-icon-squared {
+  background-image: url(/fonts/gi.svg?866228eceb28a8f8e2fd126b76803618);
+}
+
+.flag-icon-gl {
+  background-image: url(/fonts/gl.svg?47d7de15bb03a1c19586738b075bbf6d);
+}
+
+.flag-icon-gl.flag-icon-squared {
+  background-image: url(/fonts/gl.svg?229cc1327ae837748a5029e4eb4966fc);
+}
+
+.flag-icon-gm {
+  background-image: url(/fonts/gm.svg?d2b4a063bb9e7890879f0b6163571cd6);
+}
+
+.flag-icon-gm.flag-icon-squared {
+  background-image: url(/fonts/gm.svg?6d599b7f3aceda27611d8b2f4b0cf4f7);
+}
+
+.flag-icon-gn {
+  background-image: url(/fonts/gn.svg?08eac752cd2b0fa02809f160d96cb004);
+}
+
+.flag-icon-gn.flag-icon-squared {
+  background-image: url(/fonts/gn.svg?3e48eef83c9efcca2080845dbd1fbafa);
+}
+
+.flag-icon-gp {
+  background-image: url(/fonts/gp.svg?2f09e1e470c97b4a03a24c0c0dbb67fa);
+}
+
+.flag-icon-gp.flag-icon-squared {
+  background-image: url(/fonts/gp.svg?c9e464d9efd3ba80716a2b6b1be8330a);
+}
+
+.flag-icon-gq {
+  background-image: url(/fonts/gq.svg?dea38d5a7aa21896a120e28bb3bcbe58);
+}
+
+.flag-icon-gq.flag-icon-squared {
+  background-image: url(/fonts/gq.svg?24a34bb0338e843815cd901bcec15100);
+}
+
+.flag-icon-gr {
+  background-image: url(/fonts/gr.svg?0a3606252bb45dd36013f93319147ca2);
+}
+
+.flag-icon-gr.flag-icon-squared {
+  background-image: url(/fonts/gr.svg?5832972d460d58e4c46d122e604d04f3);
+}
+
+.flag-icon-gs {
+  background-image: url(/fonts/gs.svg?8b0eac6d198952c3b715a4e8a8143dcc);
+}
+
+.flag-icon-gs.flag-icon-squared {
+  background-image: url(/fonts/gs.svg?06d0809b64f459da2e29b5885a626f0e);
+}
+
+.flag-icon-gt {
+  background-image: url(/fonts/gt.svg?9f2b2dfd47f0e4201f662160ac1fef3b);
+}
+
+.flag-icon-gt.flag-icon-squared {
+  background-image: url(/fonts/gt.svg?003be3141c29dd3b7fb65e847b5a2630);
+}
+
+.flag-icon-gu {
+  background-image: url(/fonts/gu.svg?6fc7b410a6c3e77c2a905631e8b3b0e3);
+}
+
+.flag-icon-gu.flag-icon-squared {
+  background-image: url(/fonts/gu.svg?a454a4bdd17075d651c1cb3a4b48a3d8);
+}
+
+.flag-icon-gw {
+  background-image: url(/fonts/gw.svg?c70b84b8cd1629b6fad724e53f54c202);
+}
+
+.flag-icon-gw.flag-icon-squared {
+  background-image: url(/fonts/gw.svg?f13d4957d1ec4ccccca33a1f47fd10ad);
+}
+
+.flag-icon-gy {
+  background-image: url(/fonts/gy.svg?136878327e3bbddac7c600ae63568ee3);
+}
+
+.flag-icon-gy.flag-icon-squared {
+  background-image: url(/fonts/gy.svg?f51fccfc1c5fb75fc0c5bec8ff2ea6ee);
+}
+
+.flag-icon-hk {
+  background-image: url(/fonts/hk.svg?7e30d412d695ecfe39947d5e4f8d4401);
+}
+
+.flag-icon-hk.flag-icon-squared {
+  background-image: url(/fonts/hk.svg?a3c11d10c1b9c14766c49b71529e7ad8);
+}
+
+.flag-icon-hm {
+  background-image: url(/fonts/hm.svg?dc6db18607eddcb2f21b1d185f7d12b9);
+}
+
+.flag-icon-hm.flag-icon-squared {
+  background-image: url(/fonts/hm.svg?358703dd6bd355189eff69299bb0d74c);
+}
+
+.flag-icon-hn {
+  background-image: url(/fonts/hn.svg?58fef7e9523fb7fda34b6f206cf99ef7);
+}
+
+.flag-icon-hn.flag-icon-squared {
+  background-image: url(/fonts/hn.svg?2b70619b5f8a4402ed01914a0925a50b);
+}
+
+.flag-icon-hr {
+  background-image: url(/fonts/hr.svg?53e4ac4115ae1e8e044215170c73f238);
+}
+
+.flag-icon-hr.flag-icon-squared {
+  background-image: url(/fonts/hr.svg?2e572863e383df6dcb7f01818f9e2a1f);
+}
+
+.flag-icon-ht {
+  background-image: url(/fonts/ht.svg?4e9ec75b004c06b695520c8671e9452d);
+}
+
+.flag-icon-ht.flag-icon-squared {
+  background-image: url(/fonts/ht.svg?4be7a93663d8b0e56e9f34ada7ffa5c7);
+}
+
+.flag-icon-hu {
+  background-image: url(/fonts/hu.svg?fd87f88e0a1362178aba28f99b26e62e);
+}
+
+.flag-icon-hu.flag-icon-squared {
+  background-image: url(/fonts/hu.svg?df9b28299d8391897259638ac5ba7d83);
+}
+
+.flag-icon-id {
+  background-image: url(/fonts/id.svg?d3091dea50591e57e8217e437713bd25);
+}
+
+.flag-icon-id.flag-icon-squared {
+  background-image: url(/fonts/id.svg?48f1c225ecfa3b24f185207ddb5f62a4);
+}
+
+.flag-icon-ie {
+  background-image: url(/fonts/ie.svg?3214e5311a3de32e8376dfb57f84b47c);
+}
+
+.flag-icon-ie.flag-icon-squared {
+  background-image: url(/fonts/ie.svg?a27b6532c14fb927762ae25371625c73);
+}
+
+.flag-icon-il {
+  background-image: url(/fonts/il.svg?46e209053a1476b4e4330b8f89c156e2);
+}
+
+.flag-icon-il.flag-icon-squared {
+  background-image: url(/fonts/il.svg?c137902085152302d55dfde855ffb8d6);
+}
+
+.flag-icon-im {
+  background-image: url(/fonts/im.svg?3e016d1168974b4d87aeac5bff3e59e8);
+}
+
+.flag-icon-im.flag-icon-squared {
+  background-image: url(/fonts/im.svg?8c51fcfa4d1e40b1f76de11ac50fb304);
+}
+
+.flag-icon-in {
+  background-image: url(/fonts/in.svg?402b4ac6051e98b461c1dc80cfb90d6a);
+}
+
+.flag-icon-in.flag-icon-squared {
+  background-image: url(/fonts/in.svg?452060e50ae43c1b16d90162c572a7db);
+}
+
+.flag-icon-io {
+  background-image: url(/fonts/io.svg?41316a3f45878971658080fa96a84bf9);
+}
+
+.flag-icon-io.flag-icon-squared {
+  background-image: url(/fonts/io.svg?64784138b540da57c244f1b682c26728);
+}
+
+.flag-icon-iq {
+  background-image: url(/fonts/iq.svg?dc0f61f43cc76c7aca231616c2e77368);
+}
+
+.flag-icon-iq.flag-icon-squared {
+  background-image: url(/fonts/iq.svg?70da9a8e0cd87b5f99de83c4368ad464);
+}
+
+.flag-icon-ir {
+  background-image: url(/fonts/ir.svg?a7013c080608684be09802435f37a2a1);
+}
+
+.flag-icon-ir.flag-icon-squared {
+  background-image: url(/fonts/ir.svg?da2cf31ccb56f2c85d2f9f66c6fd71d2);
+}
+
+.flag-icon-is {
+  background-image: url(/fonts/is.svg?e24bc7a5801f3c9a9e8f35dc25d3576b);
+}
+
+.flag-icon-is.flag-icon-squared {
+  background-image: url(/fonts/is.svg?d8081da0e73782eaa550eada2700adf0);
+}
+
+.flag-icon-it {
+  background-image: url(/fonts/it.svg?ab91b327d51152a44cd049df6571dc12);
+}
+
+.flag-icon-it.flag-icon-squared {
+  background-image: url(/fonts/it.svg?1b665793d4ee27964ad7b14e51bdf02e);
+}
+
+.flag-icon-je {
+  background-image: url(/fonts/je.svg?2496385fb614891406aa4b907d2e439f);
+}
+
+.flag-icon-je.flag-icon-squared {
+  background-image: url(/fonts/je.svg?9b525d73886995a1c5982a61499c52c5);
+}
+
+.flag-icon-jm {
+  background-image: url(/fonts/jm.svg?7fe374125edda998d6b63cc44a394494);
+}
+
+.flag-icon-jm.flag-icon-squared {
+  background-image: url(/fonts/jm.svg?a1434d4cf48823eb86fae9973890a2c7);
+}
+
+.flag-icon-jo {
+  background-image: url(/fonts/jo.svg?e79e725e653d4369dc93f41914e21c1e);
+}
+
+.flag-icon-jo.flag-icon-squared {
+  background-image: url(/fonts/jo.svg?f4a6d88a8b724ad6f6c0d1a8aa934cd0);
+}
+
+.flag-icon-jp {
+  background-image: url(/fonts/jp.svg?3de11154c8ffefb29e9d1fded4cd40df);
+}
+
+.flag-icon-jp.flag-icon-squared {
+  background-image: url(/fonts/jp.svg?3e48805dda36f8e170d91090464bbaaa);
+}
+
+.flag-icon-ke {
+  background-image: url(/fonts/ke.svg?eb56b0fb47427f0fa8c18f97cf018561);
+}
+
+.flag-icon-ke.flag-icon-squared {
+  background-image: url(/fonts/ke.svg?f45b49611c0f8a449cf17f9855ef9387);
+}
+
+.flag-icon-kg {
+  background-image: url(/fonts/kg.svg?5a6fb07cea8d7c825a231a8e696dd754);
+}
+
+.flag-icon-kg.flag-icon-squared {
+  background-image: url(/fonts/kg.svg?500d88e9ba759fa80ab1f7bbd45f593d);
+}
+
+.flag-icon-kh {
+  background-image: url(/fonts/kh.svg?422218557a1da3c3135d71686d858edb);
+}
+
+.flag-icon-kh.flag-icon-squared {
+  background-image: url(/fonts/kh.svg?1543a39f5fd92fd0f32d32e61a7e6173);
+}
+
+.flag-icon-ki {
+  background-image: url(/fonts/ki.svg?b76fb20a7a6178f43e75122192e7608b);
+}
+
+.flag-icon-ki.flag-icon-squared {
+  background-image: url(/fonts/ki.svg?fbd04c211183d17a92d4474851e730a0);
+}
+
+.flag-icon-km {
+  background-image: url(/fonts/km.svg?c8bf0c80f56a034801c9a62142610af3);
+}
+
+.flag-icon-km.flag-icon-squared {
+  background-image: url(/fonts/km.svg?72a6c9fdf17bb7ff85096005e9204bd5);
+}
+
+.flag-icon-kn {
+  background-image: url(/fonts/kn.svg?b5a85f0f5a37ef86d805e9a5329bbec4);
+}
+
+.flag-icon-kn.flag-icon-squared {
+  background-image: url(/fonts/kn.svg?8619b7227c146f936971c02188a87cd2);
+}
+
+.flag-icon-kp {
+  background-image: url(/fonts/kp.svg?2935830adccf9654603d51938b3af74e);
+}
+
+.flag-icon-kp.flag-icon-squared {
+  background-image: url(/fonts/kp.svg?652ed8b34432cdbeb0a6ec5cc7ceb85b);
+}
+
+.flag-icon-kr {
+  background-image: url(/fonts/kr.svg?a7e3783a1b478d4268cd7d16d3bafef4);
+}
+
+.flag-icon-kr.flag-icon-squared {
+  background-image: url(/fonts/kr.svg?e369e47427b306ef9ddebba3b8e295a0);
+}
+
+.flag-icon-kw {
+  background-image: url(/fonts/kw.svg?082e6d77b34e96857a32898e879c9657);
+}
+
+.flag-icon-kw.flag-icon-squared {
+  background-image: url(/fonts/kw.svg?60886a1a224114082444db70fd028006);
+}
+
+.flag-icon-ky {
+  background-image: url(/fonts/ky.svg?b148cc3d936efc1fd999b176ca26c375);
+}
+
+.flag-icon-ky.flag-icon-squared {
+  background-image: url(/fonts/ky.svg?079499c77e9508a498bba8348bc80c3d);
+}
+
+.flag-icon-kz {
+  background-image: url(/fonts/kz.svg?75bd15e18dc2377bb7323b42fa559a33);
+}
+
+.flag-icon-kz.flag-icon-squared {
+  background-image: url(/fonts/kz.svg?126d85fd6ddfd7050a460aa211734331);
+}
+
+.flag-icon-la {
+  background-image: url(/fonts/la.svg?0175af4ad2836f38e13008694bb6f69d);
+}
+
+.flag-icon-la.flag-icon-squared {
+  background-image: url(/fonts/la.svg?5166ae5f2601cd29f55fd32799375b2d);
+}
+
+.flag-icon-lb {
+  background-image: url(/fonts/lb.svg?9d7809accd70b816267b132265cea0dd);
+}
+
+.flag-icon-lb.flag-icon-squared {
+  background-image: url(/fonts/lb.svg?0ed365a75623ab488e13046cb6098613);
+}
+
+.flag-icon-lc {
+  background-image: url(/fonts/lc.svg?0d079e39d22ab0c708008a48a83f3f0e);
+}
+
+.flag-icon-lc.flag-icon-squared {
+  background-image: url(/fonts/lc.svg?0a7e9442425b8d4b1c904a8fd6b2a82c);
+}
+
+.flag-icon-li {
+  background-image: url(/fonts/li.svg?494969536a2e7edb219ff3ae53a580ac);
+}
+
+.flag-icon-li.flag-icon-squared {
+  background-image: url(/fonts/li.svg?14595ce63412804dc56cdf1a21e64d1c);
+}
+
+.flag-icon-lk {
+  background-image: url(/fonts/lk.svg?ae3b201ec9c215b6b74f5d8e21f1a0a3);
+}
+
+.flag-icon-lk.flag-icon-squared {
+  background-image: url(/fonts/lk.svg?eaf0209a5f4ca32dcd5f046e3b57c847);
+}
+
+.flag-icon-lr {
+  background-image: url(/fonts/lr.svg?5fbbdd2c2e7a48413408a3f9e096562f);
+}
+
+.flag-icon-lr.flag-icon-squared {
+  background-image: url(/fonts/lr.svg?33d2b86d90703ba4f187e51669f48fa5);
+}
+
+.flag-icon-ls {
+  background-image: url(/fonts/ls.svg?f569fcb14688ea38841167d958cd877e);
+}
+
+.flag-icon-ls.flag-icon-squared {
+  background-image: url(/fonts/ls.svg?a85b37cf455c01e0effd5594f992e35a);
+}
+
+.flag-icon-lt {
+  background-image: url(/fonts/lt.svg?6b2f04d6b804a65cf7f5bcfc691d1a4f);
+}
+
+.flag-icon-lt.flag-icon-squared {
+  background-image: url(/fonts/lt.svg?f60fa7eb1501c46f8e961a4370543eb9);
+}
+
+.flag-icon-lu {
+  background-image: url(/fonts/lu.svg?f53978559195960d34e8fa2d03b67107);
+}
+
+.flag-icon-lu.flag-icon-squared {
+  background-image: url(/fonts/lu.svg?6146b22f4b505ef8e2fe164b15de59cc);
+}
+
+.flag-icon-lv {
+  background-image: url(/fonts/lv.svg?aa977712b3fd53a9fbf2dca696aab96a);
+}
+
+.flag-icon-lv.flag-icon-squared {
+  background-image: url(/fonts/lv.svg?d49ec9c69612028abc54b5b3c90f665f);
+}
+
+.flag-icon-ly {
+  background-image: url(/fonts/ly.svg?2441391f648b6704bc8bebca8baee93c);
+}
+
+.flag-icon-ly.flag-icon-squared {
+  background-image: url(/fonts/ly.svg?92b66622d3d85ad5ffd674c6d5ca66a0);
+}
+
+.flag-icon-ma {
+  background-image: url(/fonts/ma.svg?581173bdafc79a24bd6af68364a7064c);
+}
+
+.flag-icon-ma.flag-icon-squared {
+  background-image: url(/fonts/ma.svg?842a8773ec185519cfdf5fcb096e864a);
+}
+
+.flag-icon-mc {
+  background-image: url(/fonts/mc.svg?5d5286e1a57a5638b6e0b10bf18d9e55);
+}
+
+.flag-icon-mc.flag-icon-squared {
+  background-image: url(/fonts/mc.svg?71f4b02a0fa35791b0d77ef7122243d2);
+}
+
+.flag-icon-md {
+  background-image: url(/fonts/md.svg?7f6face5a112c8dd618a6047bc692df2);
+}
+
+.flag-icon-md.flag-icon-squared {
+  background-image: url(/fonts/md.svg?ebd1e8958f542de78c65ddb7fb40de1a);
+}
+
+.flag-icon-me {
+  background-image: url(/fonts/me.svg?42cb8d7633314ebd5e213d739a2bdc57);
+}
+
+.flag-icon-me.flag-icon-squared {
+  background-image: url(/fonts/me.svg?8e3867dd58d6378150eb8027d491e7b0);
+}
+
+.flag-icon-mf {
+  background-image: url(/fonts/mf.svg?4f9c402109e508a66d09a8cad8bfdf3d);
+}
+
+.flag-icon-mf.flag-icon-squared {
+  background-image: url(/fonts/mf.svg?d7c64c34c69ae2497ddb6a0bd8918802);
+}
+
+.flag-icon-mg {
+  background-image: url(/fonts/mg.svg?5ecf725f3468ba3ae3b9fd896c9eb89f);
+}
+
+.flag-icon-mg.flag-icon-squared {
+  background-image: url(/fonts/mg.svg?b7c0a18146665d103f8df68715af9dfc);
+}
+
+.flag-icon-mh {
+  background-image: url(/fonts/mh.svg?989db8aef12537763273bb729b45384c);
+}
+
+.flag-icon-mh.flag-icon-squared {
+  background-image: url(/fonts/mh.svg?769b2ce468ae65761a8e0815b61b6c02);
+}
+
+.flag-icon-mk {
+  background-image: url(/fonts/mk.svg?8f27127c99505bd359bdb8720b5cd909);
+}
+
+.flag-icon-mk.flag-icon-squared {
+  background-image: url(/fonts/mk.svg?f5e20aef616a68263d0154eaa4f255f9);
+}
+
+.flag-icon-ml {
+  background-image: url(/fonts/ml.svg?9188dccfffec289aa4630196835c436c);
+}
+
+.flag-icon-ml.flag-icon-squared {
+  background-image: url(/fonts/ml.svg?fb6915d21e4b27b617f6302c04f15ca8);
+}
+
+.flag-icon-mm {
+  background-image: url(/fonts/mm.svg?a210c6ba321d73bbb89e6a9f6d54161a);
+}
+
+.flag-icon-mm.flag-icon-squared {
+  background-image: url(/fonts/mm.svg?2d5471c3660b9d73ab187094062eb5a0);
+}
+
+.flag-icon-mn {
+  background-image: url(/fonts/mn.svg?024b272e783bd70b5cb28501308099d0);
+}
+
+.flag-icon-mn.flag-icon-squared {
+  background-image: url(/fonts/mn.svg?f5fbbc95f3b25a03305708434091fad4);
+}
+
+.flag-icon-mo {
+  background-image: url(/fonts/mo.svg?e288e1ac625b310d806659cc63c41e83);
+}
+
+.flag-icon-mo.flag-icon-squared {
+  background-image: url(/fonts/mo.svg?ca730b9b468da930bdba19cfebe164f5);
+}
+
+.flag-icon-mp {
+  background-image: url(/fonts/mp.svg?514261821eb257fc8c855ad5762ad3ca);
+}
+
+.flag-icon-mp.flag-icon-squared {
+  background-image: url(/fonts/mp.svg?54a9763112f1cc43f4eed93a04d170ed);
+}
+
+.flag-icon-mq {
+  background-image: url(/fonts/mq.svg?850bc87fec4b3e58ed96b86dd1d95ad0);
+}
+
+.flag-icon-mq.flag-icon-squared {
+  background-image: url(/fonts/mq.svg?2961b72bb651821517b0ed722089222d);
+}
+
+.flag-icon-mr {
+  background-image: url(/fonts/mr.svg?695c99085ff2b59f0c51dae753a197c6);
+}
+
+.flag-icon-mr.flag-icon-squared {
+  background-image: url(/fonts/mr.svg?f12d5fde5917416ce650d97e5d383167);
+}
+
+.flag-icon-ms {
+  background-image: url(/fonts/ms.svg?701093b48f1b1b5f8961bd0f5a7a3cd0);
+}
+
+.flag-icon-ms.flag-icon-squared {
+  background-image: url(/fonts/ms.svg?4360ca11d0c40a7bfc42e94cf07322f9);
+}
+
+.flag-icon-mt {
+  background-image: url(/fonts/mt.svg?520506eac2f615ccd9626a09af11daa0);
+}
+
+.flag-icon-mt.flag-icon-squared {
+  background-image: url(/fonts/mt.svg?f1837e40d23ae0d924479b772735c394);
+}
+
+.flag-icon-mu {
+  background-image: url(/fonts/mu.svg?aa4c05837f3312bdb565ae738defa0a4);
+}
+
+.flag-icon-mu.flag-icon-squared {
+  background-image: url(/fonts/mu.svg?bd0bebf15482dc5182ac61b667941d83);
+}
+
+.flag-icon-mv {
+  background-image: url(/fonts/mv.svg?a8ff2cc66e05787e371d35ee492551c5);
+}
+
+.flag-icon-mv.flag-icon-squared {
+  background-image: url(/fonts/mv.svg?8f866c7776b23f9c12dd179c4b4b2291);
+}
+
+.flag-icon-mw {
+  background-image: url(/fonts/mw.svg?4ca3522bbf81262690312bdf8abf8e3a);
+}
+
+.flag-icon-mw.flag-icon-squared {
+  background-image: url(/fonts/mw.svg?e7a90e05d3b9f4633aa97cfe4d005b86);
+}
+
+.flag-icon-mx {
+  background-image: url(/fonts/mx.svg?c462fbca5f8f57fd399dc5f29d77d707);
+}
+
+.flag-icon-mx.flag-icon-squared {
+  background-image: url(/fonts/mx.svg?4be85eab5ddde9a03ffc447300d21266);
+}
+
+.flag-icon-my {
+  background-image: url(/fonts/my.svg?9771c6056dbb54d56eb4a2a193e59345);
+}
+
+.flag-icon-my.flag-icon-squared {
+  background-image: url(/fonts/my.svg?f7c0c8f21198a24c36ff6e230e375a14);
+}
+
+.flag-icon-mz {
+  background-image: url(/fonts/mz.svg?cbb5e116ed2cd386bc1d101f1e2270c7);
+}
+
+.flag-icon-mz.flag-icon-squared {
+  background-image: url(/fonts/mz.svg?45909690df5ce5f2bb1f92b2114c1cfa);
+}
+
+.flag-icon-na {
+  background-image: url(/fonts/na.svg?316d873eed7fc926630923a58e97af6a);
+}
+
+.flag-icon-na.flag-icon-squared {
+  background-image: url(/fonts/na.svg?a9914e6af7e04b90ba4db0d2fb2c0749);
+}
+
+.flag-icon-nc {
+  background-image: url(/fonts/nc.svg?5bfaf7a280690742d758ffcc1b570b70);
+}
+
+.flag-icon-nc.flag-icon-squared {
+  background-image: url(/fonts/nc.svg?6f060b3215a84a530662204a62a7afd0);
+}
+
+.flag-icon-ne {
+  background-image: url(/fonts/ne.svg?b8a0e9ae9db7ca536dd56607eda81597);
+}
+
+.flag-icon-ne.flag-icon-squared {
+  background-image: url(/fonts/ne.svg?e852679cbac90bd2807063ebe6282b35);
+}
+
+.flag-icon-nf {
+  background-image: url(/fonts/nf.svg?b4145a64edbe527294067b62b9073f37);
+}
+
+.flag-icon-nf.flag-icon-squared {
+  background-image: url(/fonts/nf.svg?24fa151c4df0884d3a6c14b6497af647);
+}
+
+.flag-icon-ng {
+  background-image: url(/fonts/ng.svg?309e0794c99acc139a8a71c9b56bc0bf);
+}
+
+.flag-icon-ng.flag-icon-squared {
+  background-image: url(/fonts/ng.svg?f2ea94b40cede944fc9b5c2e4eaba14f);
+}
+
+.flag-icon-ni {
+  background-image: url(/fonts/ni.svg?59cafd57897dba393d450f4f2d8e34cc);
+}
+
+.flag-icon-ni.flag-icon-squared {
+  background-image: url(/fonts/ni.svg?76a6401d3fa9dc00d562236475d2326e);
+}
+
+.flag-icon-nl {
+  background-image: url(/fonts/nl.svg?62b5443db6c4abbb9713bd0b8df4182d);
+}
+
+.flag-icon-nl.flag-icon-squared {
+  background-image: url(/fonts/nl.svg?b48d34a2ef443c0b14a7f5b624a02091);
+}
+
+.flag-icon-no {
+  background-image: url(/fonts/no.svg?0c98c480781d20d66aedc37fc46a99c1);
+}
+
+.flag-icon-no.flag-icon-squared {
+  background-image: url(/fonts/no.svg?b855834ec80ba4ec04cd65da74009565);
+}
+
+.flag-icon-np {
+  background-image: url(/fonts/np.svg?0bc13851ef1b01fed969b1682710f072);
+}
+
+.flag-icon-np.flag-icon-squared {
+  background-image: url(/fonts/np.svg?fed92a40dfeccd23589625479de016c9);
+}
+
+.flag-icon-nr {
+  background-image: url(/fonts/nr.svg?68e197a2b9cc992fda33d69cc3adaeaf);
+}
+
+.flag-icon-nr.flag-icon-squared {
+  background-image: url(/fonts/nr.svg?7b85674c8218385e93bf6f0a1257dfb8);
+}
+
+.flag-icon-nu {
+  background-image: url(/fonts/nu.svg?650aaffc474764ae687d81a29b9e51dd);
+}
+
+.flag-icon-nu.flag-icon-squared {
+  background-image: url(/fonts/nu.svg?76d47b01cc6b3e11d8eae4e617c9f596);
+}
+
+.flag-icon-nz {
+  background-image: url(/fonts/nz.svg?66da1c701fc52cc533b6a7ea18dc4eba);
+}
+
+.flag-icon-nz.flag-icon-squared {
+  background-image: url(/fonts/nz.svg?8d9d5b80e898aac975362615f2a6db64);
+}
+
+.flag-icon-om {
+  background-image: url(/fonts/om.svg?d3eca0fe2f449768d00091be71818701);
+}
+
+.flag-icon-om.flag-icon-squared {
+  background-image: url(/fonts/om.svg?c34bf82d2ca800cf89a938aa1ca2bbb9);
+}
+
+.flag-icon-pa {
+  background-image: url(/fonts/pa.svg?22a480141c15563aa0b8e4288a4e83af);
+}
+
+.flag-icon-pa.flag-icon-squared {
+  background-image: url(/fonts/pa.svg?f04e2db86d8202d49462554faf3f6751);
+}
+
+.flag-icon-pe {
+  background-image: url(/fonts/pe.svg?3d42d42c92ca16f79d4f4d618dff6677);
+}
+
+.flag-icon-pe.flag-icon-squared {
+  background-image: url(/fonts/pe.svg?7f5e882d44fc81ab40453ed941fd7c62);
+}
+
+.flag-icon-pf {
+  background-image: url(/fonts/pf.svg?e814e4c4e188e52184795b868b8ccfc7);
+}
+
+.flag-icon-pf.flag-icon-squared {
+  background-image: url(/fonts/pf.svg?cd4ca0aae8ee2e05c77c4cd1660fc6de);
+}
+
+.flag-icon-pg {
+  background-image: url(/fonts/pg.svg?94f50b75e24428bdcf96bb4fb9e0ac2f);
+}
+
+.flag-icon-pg.flag-icon-squared {
+  background-image: url(/fonts/pg.svg?8aa3495ff085d9d4d2f85651ff1a336a);
+}
+
+.flag-icon-ph {
+  background-image: url(/fonts/ph.svg?14d23355000524b09ec9ae64d8109e7e);
+}
+
+.flag-icon-ph.flag-icon-squared {
+  background-image: url(/fonts/ph.svg?f3f06f8e36ca364649223701afdf9bd5);
+}
+
+.flag-icon-pk {
+  background-image: url(/fonts/pk.svg?79e8d1d7f368f70bd0d8bf7ad0759cdf);
+}
+
+.flag-icon-pk.flag-icon-squared {
+  background-image: url(/fonts/pk.svg?f85a28f97edcb65c1e580b0505d82264);
+}
+
+.flag-icon-pl {
+  background-image: url(/fonts/pl.svg?fad79a02868ced9f3a2331bcf5f651f7);
+}
+
+.flag-icon-pl.flag-icon-squared {
+  background-image: url(/fonts/pl.svg?9435f80be31fd33d536c772e16fa51b1);
+}
+
+.flag-icon-pm {
+  background-image: url(/fonts/pm.svg?b3fe124eeb3ff2c5e148c1a8b8878684);
+}
+
+.flag-icon-pm.flag-icon-squared {
+  background-image: url(/fonts/pm.svg?db648c849bfba5fab14dabc5f2541890);
+}
+
+.flag-icon-pn {
+  background-image: url(/fonts/pn.svg?981d8f79535572078825c794bdb2c99c);
+}
+
+.flag-icon-pn.flag-icon-squared {
+  background-image: url(/fonts/pn.svg?414db632aa971d3b811d3c917d15b87f);
+}
+
+.flag-icon-pr {
+  background-image: url(/fonts/pr.svg?0a04f734b0ffa110adce66a79827308a);
+}
+
+.flag-icon-pr.flag-icon-squared {
+  background-image: url(/fonts/pr.svg?52b418174c3336e086a5774443f7274f);
+}
+
+.flag-icon-ps {
+  background-image: url(/fonts/ps.svg?3ac04b1cc2065220c72c47de4fe6f9a3);
+}
+
+.flag-icon-ps.flag-icon-squared {
+  background-image: url(/fonts/ps.svg?182f99ef0b0383dd536083e9d50b0dc3);
+}
+
+.flag-icon-pt {
+  background-image: url(/fonts/pt.svg?6a4e0bafde97b03ae08134fca21fde5d);
+}
+
+.flag-icon-pt.flag-icon-squared {
+  background-image: url(/fonts/pt.svg?340d3599145c63301d4ad3d523fb814e);
+}
+
+.flag-icon-pw {
+  background-image: url(/fonts/pw.svg?fb40d0e69f93e80cd3b0f1b1732237c9);
+}
+
+.flag-icon-pw.flag-icon-squared {
+  background-image: url(/fonts/pw.svg?f05bd392fb752707d9c7fc04f721e4a1);
+}
+
+.flag-icon-py {
+  background-image: url(/fonts/py.svg?908cf1b2dc08c382d03ce87b942f7cf6);
+}
+
+.flag-icon-py.flag-icon-squared {
+  background-image: url(/fonts/py.svg?3fdd777320df21497ef6f362f68fc5de);
+}
+
+.flag-icon-qa {
+  background-image: url(/fonts/qa.svg?e211be64bfd527d49f0f197c75705673);
+}
+
+.flag-icon-qa.flag-icon-squared {
+  background-image: url(/fonts/qa.svg?11d998f57da5ffb8847d43dd9042f497);
+}
+
+.flag-icon-re {
+  background-image: url(/fonts/re.svg?28234b19353ddb48d93bdbc8b90cc9d2);
+}
+
+.flag-icon-re.flag-icon-squared {
+  background-image: url(/fonts/re.svg?5e8d7bec79e98e9af009ca4915ca22e7);
+}
+
+.flag-icon-ro {
+  background-image: url(/fonts/ro.svg?cbbecc73ba1ef21ac775d19918f7f37e);
+}
+
+.flag-icon-ro.flag-icon-squared {
+  background-image: url(/fonts/ro.svg?af874e87abb5b4080217ee0db28b91b2);
+}
+
+.flag-icon-rs {
+  background-image: url(/fonts/rs.svg?c89987db93164be2d358b48a63b8d99e);
+}
+
+.flag-icon-rs.flag-icon-squared {
+  background-image: url(/fonts/rs.svg?484a005a01dcbbb10a6bca3a60bc5dfb);
+}
+
+.flag-icon-ru {
+  background-image: url(/fonts/ru.svg?d862459a3a5e0d105223b37e8e6566e5);
+}
+
+.flag-icon-ru.flag-icon-squared {
+  background-image: url(/fonts/ru.svg?5e2c1a13ffbfa0bf4346b7729694e1f0);
+}
+
+.flag-icon-rw {
+  background-image: url(/fonts/rw.svg?b4301797e4f428bf0e2308ebd7dc3811);
+}
+
+.flag-icon-rw.flag-icon-squared {
+  background-image: url(/fonts/rw.svg?a15eafd84ea9d2bf6eaa0cb81ebe348c);
+}
+
+.flag-icon-sa {
+  background-image: url(/fonts/sa.svg?d3a0ad4df60342394b50023988c0baa4);
+}
+
+.flag-icon-sa.flag-icon-squared {
+  background-image: url(/fonts/sa.svg?37465ef3b444c9d6a0acde9a4f7cb84c);
+}
+
+.flag-icon-sb {
+  background-image: url(/fonts/sb.svg?401fb94aa3db87da547aa242a696af4c);
+}
+
+.flag-icon-sb.flag-icon-squared {
+  background-image: url(/fonts/sb.svg?8d947efdfa062f907a9f691c961541f1);
+}
+
+.flag-icon-sc {
+  background-image: url(/fonts/sc.svg?fa4701b92718cc67e529d8d7bf854a36);
+}
+
+.flag-icon-sc.flag-icon-squared {
+  background-image: url(/fonts/sc.svg?20bcebb3ff9e836bf04e3d70bee97bc1);
+}
+
+.flag-icon-sd {
+  background-image: url(/fonts/sd.svg?0ac3655be9e6a244270b6f8ce8ac8791);
+}
+
+.flag-icon-sd.flag-icon-squared {
+  background-image: url(/fonts/sd.svg?8518e0d5f041b065322ebf9d59793953);
+}
+
+.flag-icon-se {
+  background-image: url(/fonts/se.svg?83e645eee2309c219d08f96f51ee2db9);
+}
+
+.flag-icon-se.flag-icon-squared {
+  background-image: url(/fonts/se.svg?ba0f491a71311caa76c3faa19ce3a3e2);
+}
+
+.flag-icon-sg {
+  background-image: url(/fonts/sg.svg?8a467f1a0649fb27c2d67546ec3b903b);
+}
+
+.flag-icon-sg.flag-icon-squared {
+  background-image: url(/fonts/sg.svg?44bd47a312db4a7a5523149950c87fc9);
+}
+
+.flag-icon-sh {
+  background-image: url(/fonts/sh.svg?87ec88935ce96731de80029503268dea);
+}
+
+.flag-icon-sh.flag-icon-squared {
+  background-image: url(/fonts/sh.svg?c47ee33b97f3e7da940502c8311780f1);
+}
+
+.flag-icon-si {
+  background-image: url(/fonts/si.svg?70c6e3a3f689078c9f75ebc515cd31a8);
+}
+
+.flag-icon-si.flag-icon-squared {
+  background-image: url(/fonts/si.svg?38ccbaf679a55ada3fd7e2573c5575c8);
+}
+
+.flag-icon-sj {
+  background-image: url(/fonts/sj.svg?fa6eb2590abd4d707fa9fcfb22639d20);
+}
+
+.flag-icon-sj.flag-icon-squared {
+  background-image: url(/fonts/sj.svg?7a4bed05693bb378bdc093dad66cbed0);
+}
+
+.flag-icon-sk {
+  background-image: url(/fonts/sk.svg?619853763f6e9b5c4b3e24fb72afb4cf);
+}
+
+.flag-icon-sk.flag-icon-squared {
+  background-image: url(/fonts/sk.svg?4d5e47dc96b31ae992e26f28239d073c);
+}
+
+.flag-icon-sl {
+  background-image: url(/fonts/sl.svg?4db27f7c929009b2da074673c6fea7ab);
+}
+
+.flag-icon-sl.flag-icon-squared {
+  background-image: url(/fonts/sl.svg?57cb91fca68e8a881972d99d9479153a);
+}
+
+.flag-icon-sm {
+  background-image: url(/fonts/sm.svg?07801da87b2073824e1e52062ced0a0e);
+}
+
+.flag-icon-sm.flag-icon-squared {
+  background-image: url(/fonts/sm.svg?0496dadce7e3386835d819557f9b7ee6);
+}
+
+.flag-icon-sn {
+  background-image: url(/fonts/sn.svg?da6a817cd41a3d236371e2c55ebd6ecd);
+}
+
+.flag-icon-sn.flag-icon-squared {
+  background-image: url(/fonts/sn.svg?38f49251023013aa94adc787828f9297);
+}
+
+.flag-icon-so {
+  background-image: url(/fonts/so.svg?b105ba8737b418a7e14cae1879bc980e);
+}
+
+.flag-icon-so.flag-icon-squared {
+  background-image: url(/fonts/so.svg?6f144ebdee046b0b8f847c69140bb75b);
+}
+
+.flag-icon-sr {
+  background-image: url(/fonts/sr.svg?38ed742d4434061fc487cd4c151b072b);
+}
+
+.flag-icon-sr.flag-icon-squared {
+  background-image: url(/fonts/sr.svg?d1e92e6cb1b425128269909e6d09b9cd);
+}
+
+.flag-icon-ss {
+  background-image: url(/fonts/ss.svg?3c65b7fb0dc06aa7b6da6ccb7c4538a5);
+}
+
+.flag-icon-ss.flag-icon-squared {
+  background-image: url(/fonts/ss.svg?f7e55b077e99bfcd07b6759a3ac4997b);
+}
+
+.flag-icon-st {
+  background-image: url(/fonts/st.svg?4d75d6d2109dafe3f66e46c5679282f8);
+}
+
+.flag-icon-st.flag-icon-squared {
+  background-image: url(/fonts/st.svg?00894b0fff7d9729c5a41641d672061e);
+}
+
+.flag-icon-sv {
+  background-image: url(/fonts/sv.svg?ab9727195650a162e048a3e62b1bc113);
+}
+
+.flag-icon-sv.flag-icon-squared {
+  background-image: url(/fonts/sv.svg?4ca3940b27e5583e1ce56f1d6d3800f1);
+}
+
+.flag-icon-sx {
+  background-image: url(/fonts/sx.svg?49243877f93c2bdefe6cbc03287de5fc);
+}
+
+.flag-icon-sx.flag-icon-squared {
+  background-image: url(/fonts/sx.svg?a78f81b03f4e326936a9078f22b35cab);
+}
+
+.flag-icon-sy {
+  background-image: url(/fonts/sy.svg?fc44370ffd2df5df38bbf3c0cc9a4296);
+}
+
+.flag-icon-sy.flag-icon-squared {
+  background-image: url(/fonts/sy.svg?41e5cf69000767c09bcd95a27aaa1993);
+}
+
+.flag-icon-sz {
+  background-image: url(/fonts/sz.svg?cca48a3ee010369af2b3efc988c126ad);
+}
+
+.flag-icon-sz.flag-icon-squared {
+  background-image: url(/fonts/sz.svg?ec6e04001ff9ff105ead433e8484380b);
+}
+
+.flag-icon-tc {
+  background-image: url(/fonts/tc.svg?94b3bd27120e29299b0c94bc4a465347);
+}
+
+.flag-icon-tc.flag-icon-squared {
+  background-image: url(/fonts/tc.svg?13ee6b879cd11251a2a5ead4ee1697b4);
+}
+
+.flag-icon-td {
+  background-image: url(/fonts/td.svg?5ba646e1b141ad1c3027478fc8bd9d40);
+}
+
+.flag-icon-td.flag-icon-squared {
+  background-image: url(/fonts/td.svg?0c5287a49a2367969c221f6adca92fd5);
+}
+
+.flag-icon-tf {
+  background-image: url(/fonts/tf.svg?0d1af327084bc6ef9fe200aa7cf1c47f);
+}
+
+.flag-icon-tf.flag-icon-squared {
+  background-image: url(/fonts/tf.svg?06bda6c0bf87bfffd70353359f97dc2b);
+}
+
+.flag-icon-tg {
+  background-image: url(/fonts/tg.svg?e44ec0ee5f9dacfb2e0440e1b16b8ee3);
+}
+
+.flag-icon-tg.flag-icon-squared {
+  background-image: url(/fonts/tg.svg?801ef4aea9267a076f75beac68faa262);
+}
+
+.flag-icon-th {
+  background-image: url(/fonts/th.svg?9aae6ecaaf06018f738bde2df3d37504);
+}
+
+.flag-icon-th.flag-icon-squared {
+  background-image: url(/fonts/th.svg?791d65462ea97d4a0a6e54cf3abb881b);
+}
+
+.flag-icon-tj {
+  background-image: url(/fonts/tj.svg?4251237743e0424a5a74f3b2f4454247);
+}
+
+.flag-icon-tj.flag-icon-squared {
+  background-image: url(/fonts/tj.svg?d070fa20775e8ff238c1926b11a1c613);
+}
+
+.flag-icon-tk {
+  background-image: url(/fonts/tk.svg?e332f18093d53ca8db3b1ace8a7278da);
+}
+
+.flag-icon-tk.flag-icon-squared {
+  background-image: url(/fonts/tk.svg?f61a89440a29a6e0173ff6ab0f6ec5e0);
+}
+
+.flag-icon-tl {
+  background-image: url(/fonts/tl.svg?1cc284f6c857854351099a41f061e6e6);
+}
+
+.flag-icon-tl.flag-icon-squared {
+  background-image: url(/fonts/tl.svg?e50237d4da13ed40afdca82b5d29c5c4);
+}
+
+.flag-icon-tm {
+  background-image: url(/fonts/tm.svg?dc7311cee857d9140ec94ebed85a4567);
+}
+
+.flag-icon-tm.flag-icon-squared {
+  background-image: url(/fonts/tm.svg?252af0c63c1d4bbc85446b970e4086c4);
+}
+
+.flag-icon-tn {
+  background-image: url(/fonts/tn.svg?164b5a1710cde7f7a8cdfadabeae105d);
+}
+
+.flag-icon-tn.flag-icon-squared {
+  background-image: url(/fonts/tn.svg?e45d72abdeace3664fa5147034b618a7);
+}
+
+.flag-icon-to {
+  background-image: url(/fonts/to.svg?a712db2998f63df269f7a74488aec6f1);
+}
+
+.flag-icon-to.flag-icon-squared {
+  background-image: url(/fonts/to.svg?b84a89aefd074125063da7eb6327a7c6);
+}
+
+.flag-icon-tr {
+  background-image: url(/fonts/tr.svg?f253a02f955e87805ffa54dd3dce936d);
+}
+
+.flag-icon-tr.flag-icon-squared {
+  background-image: url(/fonts/tr.svg?044b3721eeaf7c0012bc61bdfe24b5bf);
+}
+
+.flag-icon-tt {
+  background-image: url(/fonts/tt.svg?664587cbc79d41f62ee15044280f72ac);
+}
+
+.flag-icon-tt.flag-icon-squared {
+  background-image: url(/fonts/tt.svg?b259be66ef6b25274f1ae037721a5ccb);
+}
+
+.flag-icon-tv {
+  background-image: url(/fonts/tv.svg?741b9164af6d7acf0baf717f008a5f8c);
+}
+
+.flag-icon-tv.flag-icon-squared {
+  background-image: url(/fonts/tv.svg?050048b21adf547c1fe536fb58730bbd);
+}
+
+.flag-icon-tw {
+  background-image: url(/fonts/tw.svg?37ee15a6c7050d69d30100deecb0949c);
+}
+
+.flag-icon-tw.flag-icon-squared {
+  background-image: url(/fonts/tw.svg?eb916f30af7e47d1b065c805ab004533);
+}
+
+.flag-icon-tz {
+  background-image: url(/fonts/tz.svg?91ebff147b9da51102e00bac096c4ba6);
+}
+
+.flag-icon-tz.flag-icon-squared {
+  background-image: url(/fonts/tz.svg?64cddc3f1df7011e2f4a8aa9023e5bc1);
+}
+
+.flag-icon-ua {
+  background-image: url(/fonts/ua.svg?c56fea2de9c9d6609ccdd0b8487f9ac4);
+}
+
+.flag-icon-ua.flag-icon-squared {
+  background-image: url(/fonts/ua.svg?d0fdc636182666ae0ad02a5ce75275c1);
+}
+
+.flag-icon-ug {
+  background-image: url(/fonts/ug.svg?da14426dfec424f67c13d5e9514c7b6f);
+}
+
+.flag-icon-ug.flag-icon-squared {
+  background-image: url(/fonts/ug.svg?2d2fff14052deb908165cb6451e6a0d4);
+}
+
+.flag-icon-um {
+  background-image: url(/fonts/um.svg?60872cdbbd21a3ba5b2938d2ecb56c3d);
+}
+
+.flag-icon-um.flag-icon-squared {
+  background-image: url(/fonts/um.svg?9a3630828a4e8116fe5301fc2181481c);
+}
+
+.flag-icon-us {
+  background-image: url(/fonts/us.svg?da80e9f32512c65921b9385b7f2d0868);
+}
+
+.flag-icon-us.flag-icon-squared {
+  background-image: url(/fonts/us.svg?411950a3fa8921c24b2368e83c0f2662);
+}
+
+.flag-icon-uy {
+  background-image: url(/fonts/uy.svg?f972eab7b3aa16b6235e4016f6c3f1b1);
+}
+
+.flag-icon-uy.flag-icon-squared {
+  background-image: url(/fonts/uy.svg?f40123c175dff9d1d8f775d6965a414e);
+}
+
+.flag-icon-uz {
+  background-image: url(/fonts/uz.svg?b43ab446c6f2ed80fffea1d7d05cd6ba);
+}
+
+.flag-icon-uz.flag-icon-squared {
+  background-image: url(/fonts/uz.svg?0b355e68a214eb9c063d2a79fa38fdfa);
+}
+
+.flag-icon-va {
+  background-image: url(/fonts/va.svg?512026fa7fe99785b479345dde01868c);
+}
+
+.flag-icon-va.flag-icon-squared {
+  background-image: url(/fonts/va.svg?ba8283aa59227ca84324c1041c1ed59a);
+}
+
+.flag-icon-vc {
+  background-image: url(/fonts/vc.svg?71968d8c7bc19416b4555087aa550639);
+}
+
+.flag-icon-vc.flag-icon-squared {
+  background-image: url(/fonts/vc.svg?b102b9165841de5f236217d531e63b64);
+}
+
+.flag-icon-ve {
+  background-image: url(/fonts/ve.svg?93b2af8f0b90b8099d4a7f2f55814608);
+}
+
+.flag-icon-ve.flag-icon-squared {
+  background-image: url(/fonts/ve.svg?43cf884596e12e3626baa564340ea835);
+}
+
+.flag-icon-vg {
+  background-image: url(/fonts/vg.svg?1e105cc2f1c10386167870d1134f6cb2);
+}
+
+.flag-icon-vg.flag-icon-squared {
+  background-image: url(/fonts/vg.svg?a78384da85b31fbb619936632b841d62);
+}
+
+.flag-icon-vi {
+  background-image: url(/fonts/vi.svg?9d033b798b22ea28d51db3fcc4e2b266);
+}
+
+.flag-icon-vi.flag-icon-squared {
+  background-image: url(/fonts/vi.svg?9921a1fdaba8e811d5281e36256ae225);
+}
+
+.flag-icon-vn {
+  background-image: url(/fonts/vn.svg?f42f933c96b9dda789ff678a3cdb8e9f);
+}
+
+.flag-icon-vn.flag-icon-squared {
+  background-image: url(/fonts/vn.svg?bb49d60066f6fda3d12dbf7de4a4abf9);
+}
+
+.flag-icon-vu {
+  background-image: url(/fonts/vu.svg?af25c20f3f9c0761f3f844105feb8671);
+}
+
+.flag-icon-vu.flag-icon-squared {
+  background-image: url(/fonts/vu.svg?c047f3c06d1217a578c7e1a74c64ebc3);
+}
+
+.flag-icon-wf {
+  background-image: url(/fonts/wf.svg?742810b60e80621815a2c86442da62d1);
+}
+
+.flag-icon-wf.flag-icon-squared {
+  background-image: url(/fonts/wf.svg?e73b57847157661bc2aab78f1a5e2b84);
+}
+
+.flag-icon-ws {
+  background-image: url(/fonts/ws.svg?2525988cde30154d25f7117b171ca0e2);
+}
+
+.flag-icon-ws.flag-icon-squared {
+  background-image: url(/fonts/ws.svg?c9d0d1e4908522ca7368aaec2b7c950a);
+}
+
+.flag-icon-ye {
+  background-image: url(/fonts/ye.svg?cfa9a4263e904c02ed3fd3a4d94e0de2);
+}
+
+.flag-icon-ye.flag-icon-squared {
+  background-image: url(/fonts/ye.svg?40c9a45652a520a4ceb92357ebd406fe);
+}
+
+.flag-icon-yt {
+  background-image: url(/fonts/yt.svg?b07a5fddb744e74592be2aa8eff98587);
+}
+
+.flag-icon-yt.flag-icon-squared {
+  background-image: url(/fonts/yt.svg?7467851e5231c56c600770e7f2cf2ca4);
+}
+
+.flag-icon-za {
+  background-image: url(/fonts/za.svg?591d4eda2c7928b882db52c5e3fb670b);
+}
+
+.flag-icon-za.flag-icon-squared {
+  background-image: url(/fonts/za.svg?1f888ad462f3db9c1dea850114d676d8);
+}
+
+.flag-icon-zm {
+  background-image: url(/fonts/zm.svg?8fa757b31d6e83f467a2fecf6f26c1c6);
+}
+
+.flag-icon-zm.flag-icon-squared {
+  background-image: url(/fonts/zm.svg?fb8a2ed6876af4874820e24438fd2eb6);
+}
+
+.flag-icon-zw {
+  background-image: url(/fonts/zw.svg?8fc574af823754b44c4d989d13d774b9);
+}
+
+.flag-icon-zw.flag-icon-squared {
+  background-image: url(/fonts/zw.svg?11d8f0e969313c6470dde42e75920aaf);
+}
+
+.flag-icon-eu {
+  background-image: url(/fonts/eu.svg?ee305bf3ac6171628dfec0d79efe0277);
+}
+
+.flag-icon-eu.flag-icon-squared {
+  background-image: url(/fonts/eu.svg?44b6e82bec795a2c209972154387412b);
+}
+
+.flag-icon-gb-eng {
+  background-image: url(/fonts/gb-eng.svg?1b321588a91242132722fc8969e40f63);
+}
+
+.flag-icon-gb-eng.flag-icon-squared {
+  background-image: url(/fonts/gb-eng.svg?1d353c89b3209c4811943381e81d9adf);
+}
+
+.flag-icon-gb-sct {
+  background-image: url(/fonts/gb-sct.svg?19d377fa04ef1b8fd990113403cfa67c);
+}
+
+.flag-icon-gb-sct.flag-icon-squared {
+  background-image: url(/fonts/gb-sct.svg?6380e60f440d2a09863aec540169d6e3);
+}
+
+.flag-icon-gb-wls {
+  background-image: url(/fonts/gb-wls.svg?e8cf2e67dc6d552124ef5acc88ae4e5f);
+}
+
+.flag-icon-gb-wls.flag-icon-squared {
+  background-image: url(/fonts/gb-wls.svg?4ac1e66da3767b97b5826d4fef902e03);
+}
+

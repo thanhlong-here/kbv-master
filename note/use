@@ -1,0 +1,57 @@
+php artisan migrate --path=database\migrations\sys\
+
+php artisan make:migration create_users_table
+
+
+https://code.tutsplus.com/vi/tutorials/how-to-create-a-laravel-helper--cms-28537
+
+    public function _ks()
+    {
+        return $this->ex()->select('_key','_value')->get();
+    }
+
+    public function _k( $k )
+    {
+        $r  = $this->k( $k )->select('_value')->first();
+        return  $r ? $r->_value : null;
+    }
+
+    public function sK( $arr )
+    {
+        foreach($arr as $k => $v)
+        {
+            $this->s($k,$v);
+
+        }
+    }
+    public function user()
+    {
+        return $this->belongsTo('App\Basic\Sys\User')->first();
+    }
+
+    function s( $k,$v )
+    {
+        if( is_null($v) ) return;
+
+        $key  = $this->k( $k );
+
+        if( $key->first() )
+          return $key->update(['_value'=>$v]);
+
+        return $this->ex()->insert([
+            'own'   =>  $this->id,
+            '_key'  =>  $k,
+            '_value'=>  $v
+        ]);
+    }
+
+    function k( $k )
+    {
+        return $this->ex()->where('_key',$k);
+    }
+
+    function ex()
+    {
+        return DB::table($this->table.'_ex')
+            ->where('own',$this->id);
+    }

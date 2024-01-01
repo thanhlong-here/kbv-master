@@ -1,0 +1,317 @@
+[
+  {
+    "postcode": 880000,
+    "country": "VN",
+    "name": "An Giang"
+  },
+  {
+    "postcode": 790000,
+    "country": "VN",
+    "name": "Bà Rịa-Vũng Tàu"
+  },
+  {
+    "postcode": 960000,
+    "country": "VN",
+    "name": "Bạc Liêu"
+  },
+  {
+    "postcode": 260000,
+    "country": "VN",
+    "name": "Bắc Kạn"
+  },
+  {
+    "postcode": 230000,
+    "country": "VN",
+    "name": "Bắc Giang"
+  },
+  {
+    "postcode": 220000,
+    "country": "VN",
+    "name": "Bắc Ninh"
+  },
+  {
+    "postcode": 930000,
+    "country": "VN",
+    "name": "Bến Tre"
+  },
+  {
+    "postcode": 820000,
+    "country": "VN",
+    "name": "Bình Dương"
+  },
+  {
+    "postcode": 590000,
+    "country": "VN",
+    "name": "Bình Định"
+  },
+  {
+    "postcode": 830000,
+    "country": "VN",
+    "name": "Bình Phước"
+  },
+  {
+    "postcode": 800000,
+    "country": "VN",
+    "name": "Bình Thuận"
+  },
+  {
+    "postcode": 970000,
+    "country": "VN",
+    "name": "Cà Mau"
+  },
+  {
+    "postcode": 270000,
+    "country": "VN",
+    "name": "Cao Bằng"
+  },
+  {
+    "postcode": 900000,
+    "country": "VN",
+    "name": "Cần Thơ"
+  },
+  {
+    "postcode": 550000,
+    "country": "VN",
+    "name": "Đà Nẵng"
+  },
+  {
+    "postcode": 630000,
+    "country": "VN",
+    "name": "Đắk Lắk"
+  },
+  {
+    "postcode": 640000,
+    "country": "VN",
+    "name": "Đắk Nông"
+  },
+  {
+    "postcode": 380000,
+    "country": "VN",
+    "name": "Điện Biên"
+  },
+  {
+    "postcode": 810000,
+    "country": "VN",
+    "name": "Đồng Nai"
+  },
+  {
+    "postcode": 870000,
+    "country": "VN",
+    "name": "Đồng Tháp"
+  },
+  {
+    "postcode": 600000,
+    "country": "VN",
+    "name": "Gia Lai"
+  },
+  {
+    "postcode": 310000,
+    "country": "VN",
+    "name": "Hà Giang"
+  },
+  {
+    "postcode": 400000,
+    "country": "VN",
+    "name": "Hà Nam"
+  },
+  {
+    "postcode": 100000,
+    "country": "VN",
+    "name": "Hà Nội"
+  },
+  {
+    "postcode": 480000,
+    "country": "VN",
+    "name": "Hà Tĩnh"
+  },
+  {
+    "postcode": 170000,
+    "country": "VN",
+    "name": "Hải Dương"
+  },
+  {
+    "postcode": 180000,
+    "country": "VN",
+    "name": "Hải Phòng"
+  },
+  {
+    "postcode": 910000,
+    "country": "VN",
+    "name": "Hậu Giang"
+  },
+  {
+    "postcode": 350000,
+    "country": "VN",
+    "name": "Hòa Bình"
+  },
+  {
+    "postcode": 700000,
+    "country": "VN",
+    "name": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "postcode": 160000,
+    "country": "VN",
+    "name": "Hưng Yên"
+  },
+  {
+    "postcode": 650000,
+    "country": "VN",
+    "name": "Khánh Hoà"
+  },
+  {
+    "postcode": 920000,
+    "country": "VN",
+    "name": "Kiên Giang"
+  },
+  {
+    "postcode": 580000,
+    "country": "VN",
+    "name": "Kon Tum"
+  },
+  {
+    "postcode": 390000,
+    "country": "VN",
+    "name": "Lai Châu"
+  },
+  {
+    "postcode": 240000,
+    "country": "VN",
+    "name": "Lạng Sơn"
+  },
+  {
+    "postcode": 330000,
+    "country": "VN",
+    "name": "Lào Cai"
+  },
+  {
+    "postcode": 670000,
+    "country": "VN",
+    "name": "Lâm Đồng"
+  },
+  {
+    "postcode": 850000,
+    "country": "VN",
+    "name": "Long An"
+  },
+  {
+    "postcode": 420000,
+    "country": "VN",
+    "name": "Nam Định"
+  },
+  {
+    "postcode": 460000,
+    "country": "VN",
+    "name": "Nghệ An"
+  },
+  {
+    "postcode": 430000,
+    "country": "VN",
+    "name": "Ninh Bình"
+  },
+  {
+    "postcode": 660000,
+    "country": "VN",
+    "name": "Ninh Thuận"
+  },
+  {
+    "postcode": 290000,
+    "country": "VN",
+    "name": "Phú Thọ"
+  },
+  {
+    "postcode": 620000,
+    "country": "VN",
+    "name": "Phú Yên"
+  },
+  {
+    "postcode": 510000,
+    "country": "VN",
+    "name": "Quảng Bình"
+  },
+  {
+    "postcode": 560000,
+    "country": "VN",
+    "name": "Quảng Nam"
+  },
+  {
+    "postcode": 570000,
+    "country": "VN",
+    "name": "Quảng Ngãi"
+  },
+  {
+    "postcode": 200000,
+    "country": "VN",
+    "name": "Quảng Ninh"
+  },
+  {
+    "postcode": 520000,
+    "country": "VN",
+    "name": "Quảng Trị"
+  },
+  {
+    "postcode": 950000,
+    "country": "VN",
+    "name": "Sóc Trăng"
+  },
+  {
+    "postcode": 360000,
+    "country": "VN",
+    "name": "Sơn La"
+  },
+  {
+    "postcode": 840000,
+    "country": "VN",
+    "name": "Tây Ninh"
+  },
+  {
+    "postcode": 410000,
+    "country": "VN",
+    "name": "Thái Bình"
+  },
+  {
+    "postcode": 250000,
+    "country": "VN",
+    "name": "Thái Nguyên"
+  },
+  {
+    "postcode": 440000,
+    "country": "VN",
+    "name": "Thanh Hoá"
+  },
+  {
+    "postcode": 530000,
+    "country": "VN",
+    "name": "Thừa Thiên-Huế"
+  },
+  {
+    "postcode": 860000,
+    "country": "VN",
+    "name": "Tiền Giang"
+  },
+  {
+    "postcode": 940000,
+    "country": "VN",
+    "name": "Trà Vinh"
+  },
+  {
+    "postcode": 300000,
+    "country": "VN",
+    "name": "Tuyên Quang"
+  },
+  {
+    "postcode": 890000,
+    "country": "VN",
+    "name": "Vĩnh Long"
+  },
+  {
+    "postcode": 280000,
+    "country": "VN",
+    "name": "Vĩnh Phúc"
+  },
+  {
+    "postcode": 320000,
+    "country": "VN",
+    "name": "Yên Bái"
+  }
+]

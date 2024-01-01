@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+	#Redirect 301 / https://kbv-is.lifeplusloyalty.vn/	
+	#RewriteCond %{HTTP_HOST} ^kbv-dev.quanly.io/
+	#RewriteRule (.*) https://kbv-is.lifeplusloyalty.vn/$1 [R=301,L]
+    
+	RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+

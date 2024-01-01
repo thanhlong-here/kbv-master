@@ -1,0 +1,80 @@
+https://viblo.asia/p/tim-hieu-eloquent-trong-laravel-phan-1-eloquent-model-database-QpmleBAo5rd
+
+https://viblo.asia/p/laravel-so-sanh-eloquent-va-query-builder-Az45bx0LZxY
+
+
+https://vietpro.net.vn/laravel-project-a-z-03-huong-dan-tao-co-so-du-lieu.html
+
+
+https://viblo.asia/p/tim-hieu-eloquent-trong-laravel-phan-1-eloquent-model-database-QpmleBAo5rd
+
+
+https://laravel.com/docs/5.0/schema
+
+
+
+////cities
+
+INSERT INTO `cities` (`id`, `postcode`, `country`, `name`) VALUES (1, 880000, 'VN', 'An Giang'),
+ (2, 790000, 'VN', 'Bà Rịa-Vũng Tàu'),
+ (3, 960000, 'VN', 'Bạc Liêu'),
+ (4, 260000, 'VN', 'Bắc Kạn'),
+ (5, 230000, 'VN', 'Bắc Giang'),
+ (6, 220000, 'VN', 'Bắc Ninh'),
+ (7, 930000, 'VN', 'Bến Tre'),
+ (8, 820000, 'VN', 'Bình Dương'),
+ (9, 590000, 'VN', 'Bình Định'),
+ (10, 830000, 'VN', 'Bình Phước'),
+ (11, 800000, 'VN', 'Bình Thuận'),
+ (12, 970000, 'VN', 'Cà Mau'),
+ (13, 270000, 'VN', 'Cao Bằng'),
+ (14, 900000, 'VN', 'Cần Thơ'),
+ (15, 550000, 'VN', 'Đà Nẵng'),
+ (16, 630000, 'VN', 'Đắk Lắk'),
+ (17, 640000, 'VN', 'Đắk Nông'),
+ (18, 380000, 'VN', 'Điện Biên'),
+ (19, 810000, 'VN', 'Đồng Nai'),
+ (20, 870000, 'VN', 'Đồng Tháp'),
+ (21, 600000, 'VN', 'Gia Lai'),
+ (22, 310000, 'VN', 'Hà Giang'),
+ (23, 400000, 'VN', 'Hà Nam'),
+ (24, 100000, 'VN', 'Hà Nội'),
+ (25, 480000, 'VN', 'Hà Tĩnh'),
+ (26, 170000, 'VN', 'Hải Dương'),
+ (27, 180000, 'VN', 'Hải Phòng'),
+ (28, 910000, 'VN', 'Hậu Giang'),
+ (29, 350000, 'VN', 'Hòa Bình'),
+ (30, 700000, 'VN', 'Thành phố Hồ Chí Minh'),
+ (31, 160000, 'VN', 'Hưng Yên'),
+ (32, 650000, 'VN', 'Khánh Hoà'),
+ (33, 920000, 'VN', 'Kiên Giang'),
+ (34, 580000, 'VN', 'Kon Tum'),
+ (35, 390000, 'VN', 'Lai Châu'),
+ (36, 240000, 'VN', 'Lạng Sơn'),
+ (37, 330000, 'VN', 'Lào Cai'),
+ (38, 670000, 'VN', 'Lâm Đồng'),
+ (39, 850000, 'VN', 'Long An'),
+ (40, 420000, 'VN', 'Nam Định'),
+ (41, 460000, 'VN', 'Nghệ An'),
+ (42, 430000, 'VN', 'Ninh Bình'),
+ (43, 660000, 'VN', 'Ninh Thuận'),
+ (44, 290000, 'VN', 'Phú Thọ'),
+ (45, 620000, 'VN', 'Phú Yên'),
+ (46, 510000, 'VN', 'Quảng Bình'),
+ (47, 560000, 'VN', 'Quảng Nam'),
+ (48, 570000, 'VN', 'Quảng Ngãi'),
+ (49, 200000, 'VN', 'Quảng Ninh'),
+ (50, 520000, 'VN', 'Quảng Trị'),
+ (51, 950000, 'VN', 'Sóc Trăng'),
+ (52, 360000, 'VN', 'Sơn La'),
+ (53, 840000, 'VN', 'Tây Ninh'),
+ (54, 410000, 'VN', 'Thái Bình'),
+ (55, 250000, 'VN', 'Thái Nguyên'),
+ (56, 440000, 'VN', 'Thanh Hoá'),
+ (57, 530000, 'VN', 'Thừa Thiên-Huế'),
+ (58, 860000, 'VN', 'Tiền Giang'),
+ (59, 940000, 'VN', 'Trà Vinh'),
+ (60, 300000, 'VN', 'Tuyên Quang'),
+ (61, 890000, 'VN', 'Vĩnh Long'),
+ (62, 280000, 'VN', 'Vĩnh Phúc'),
+ (63, 320000, 'VN', 'Yên Bái');
